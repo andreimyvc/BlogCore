@@ -1,0 +1,10 @@
+﻿Build started...
+1>------ Build started: Project: BlogCore, Configuration: Debug Any CPU ------
+1>CSC : warning AD0001: Analyzer 'Microsoft.AspNetCore.Mvc.Analyzers.TopLevelParameterNameAnalyzer' threw an exception of type 'System.NullReferenceException' with message 'Object reference not set to an instance of an object.'.
+1>CSC : warning AD0001: Analyzer 'Microsoft.AspNetCore.Mvc.Analyzers.TopLevelParameterNameAnalyzer' threw an exception of type 'System.NullReferenceException' with message 'Object reference not set to an instance of an object.'.
+1>CSC : warning AD0001: Analyzer 'Microsoft.AspNetCore.Mvc.Analyzers.TopLevelParameterNameAnalyzer' threw an exception of type 'System.NullReferenceException' with message 'Object reference not set to an instance of an object.'.
+1>CSC : warning AD0001: Analyzer 'Microsoft.AspNetCore.Mvc.Analyzers.TopLevelParameterNameAnalyzer' threw an exception of type 'System.NullReferenceException' with message 'Object reference not set to an instance of an object.'.
+1>BlogCore -> C:\XDev\BlogCore\BlogCore\bin\Debug\netcoreapp3.1\BlogCore.dll
+1>BlogCore -> C:\XDev\BlogCore\BlogCore\bin\Debug\netcoreapp3.1\BlogCore.Views.dll
+1>Done building project "BlogCore.csproj".
+========== Build: 1 succeeded, 0 failed, 3 up-to-date, 0 skipped ==========
